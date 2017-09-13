@@ -1,5 +1,5 @@
 # Rate These Stocks
-*A simple Python command-line program designed to rank stocks
+*A simple Python command-line program designed to rank stocks*
 
 ## Usage
 Navigate to the directory with the Python file and run it using
