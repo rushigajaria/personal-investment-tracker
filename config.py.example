@@ -1,0 +1,4 @@
+DB_FILE =  "portfolio.db"
+DB_FILEPATH = "sqlite:///portfolio.db"
+PORTFOLIO_FILE = "sample_portfolio.csv"
+QUANDL_KEY = "somekey" #Found at https://www.quandl.com/account/profile
